@@ -21,6 +21,8 @@ import org.bukkit.plugin.java.JavaPlugin;
 
 public class Eventos extends JavaPlugin implements Listener{
 
+	//
+	
 	@Override
 	public void onEnable() {
 		Bukkit.getServer().getPluginManager().registerEvents(this, this);
