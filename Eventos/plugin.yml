@@ -1,0 +1,5 @@
+name: Eventos
+main: plugin.Eventos
+version: 1.0.0
+commands:
+   comando:

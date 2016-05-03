@@ -1,0 +1,5 @@
+name: AntiBloque
+main: plugin.AntiBloque
+version: 1.0.0
+commands:
+   comando:
